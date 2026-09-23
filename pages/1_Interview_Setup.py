@@ -49,10 +49,6 @@ with st.sidebar:
         "GenAI-Powered Interview Question Generator"
     )
 
-    st.caption(
-        "Powered by Gemini"
-    )
-
 
 # ============================================================
 # PAGE HEADER
